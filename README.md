@@ -1,7 +1,7 @@
-[![MasterHead](https://imgur.com/aysnSnO)]
+[]![MasterHead](https://github.com/aldrichesguerra03/aldrichesguerra03/blob/main/A%20mini%20collection%20of%20pixelful%20images_.gif)]
 <h1 align="center">Hi 👋, I'm Aldrich</h1>
 <h3 align="center">Passionate in Python Programming</h3>
-img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4753031-Designer")
+<img align="right" alt="Coding" width="400" src="https://github.com/aldrichesguerra03/aldrichesguerra03/blob/main/Patreon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrichesguerra03&label=Profile%20views&color=0e75b6&style=flat" alt="aldrichesguerra03" /> </p>
 
