@@ -1,4 +1,4 @@
-<![MasterHead](https://github.com/aldrichesguerra03/aldrichesguerra03/blob/main/Pixel%20Cities.gif)>
+![MasterHead](https://github.com/aldrichesguerra03/aldrichesguerra03/blob/main/Pixel%20Cities.gif)
 <h1 align="center">Hi 👋, I'm Aldrich</h1>
 <h3 align="center">Passionate in Python Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/aldrichesguerra03/aldrichesguerra03/blob/main/Patreon.gif">
